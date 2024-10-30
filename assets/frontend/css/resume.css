@@ -1,0 +1,155 @@
+/*Single resume*/
+.resume-meta {
+    padding-left: 15px;
+}
+
+.candidate-social {
+    margin-top: 10px;
+}
+
+.candidate-social li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.jlt-single-resume-header {
+    position: relative;
+}
+
+.jlt-single-resume-header > div {
+    float: left;
+}
+
+.jlt-single-resume-header:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.resume-detail-timeline li {
+    list-style: outside;
+    margin: 0 0 10px;
+    padding: 0 0 10px 25px;
+    position: relative;
+}
+
+.resume-detail-timeline li:before {
+    position: absolute;
+    left: 0;
+    top: 8px;
+    height: 9px;
+    width: 9px;
+    background-color: #ccc;
+    content: "";
+}
+
+.resume-detail-timeline li:after {
+    border-left: 1px solid #ccc;
+    content: "";
+    height: 92%;
+    left: 4px;
+    position: absolute;
+    top: 22px;
+    width: 1px;
+}
+
+.resume-detail-timeline li:last-child:after {
+    display: none;
+}
+
+.resume-timeline-title h6 {
+    font-size: 16px;
+    display: inline-block;
+}
+
+.resume-timeline-title span {
+    color: #666;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0 0 0 5px;
+}
+
+.resume-timeline-title .resume-timeline-subtitle {
+    display: block;
+    margin: 0;
+}
+
+.resume-skill-title {
+    position: relative;
+}
+
+.resume-skill-title:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.resume-skill-title h6 {
+    float: left;
+    font-size: 16px;
+}
+
+.resume-skill-title span {
+    float: right;
+    font-size: 14px;
+}
+
+.resume-skill-bar {
+    height: 12px;
+    background: #ccc;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 0 25px 25px 0;
+}
+
+.resume-skill-bar-percent {
+    height: 100%;
+    width: 0%;
+    background: #007acc;
+    border-radius: 0 25px 25px 0;
+}
+
+.resume-detail-add {
+    float: right;
+    clear: both;
+}
+
+/*resume archive*/
+.jlt-resumes-listing li {
+    list-style: none;
+    position: relative;
+    border-top: 1px solid #eee;
+    padding: 15px;
+    margin: 0;
+}
+.jlt-resumes-listing li:hover{
+    background: #f9f9f9;
+}
+
+.jlt-resumes-listing li h3 {
+    font-size: 18px;
+}
+
+.jlt-resumes-listing li .jlt-resume-inner > div {
+    display: inline-block;
+    margin: 0;
+    vertical-align: middle;
+}
+
+.jlt-resumes-listing li .jlt-resume-inner .jlt-image {
+    display: inline-block;
+    width: 15%;
+    margin: 0;
+    padding-right: 1%;
+}
+
+.jlt-resumes-listing li .jlt-resume-inner .jlt-text {
+    width: 60%;
+    font-size: 0.85em;
+}
+
+/*Resume dashboard*/
+
+.jlt-list.jlt-list-resume .col-resume-title a {
+    display: block;
+}

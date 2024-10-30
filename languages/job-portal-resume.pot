@@ -1,0 +1,1071 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Job Listings "
+"v1.0.0\n"
+"POT-Creation-Date: 2017-05-16 "
+"15:56+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name "
+"<you@example.com>\n"
+"Language-Team: NooTheme "
+"<info@nootheme.com>\n"
+"Report-Msgid-Bugs-To: Translator "
+"Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; "
+"charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n !"
+"= 1;\n"
+"X-Textdomain-Support: yesX-"
+"Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;"
+"esc_html_e;esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-resume-form-hander.php:40
+msgid "Resume content not empty."
+msgstr ""
+
+#: classes/class-resume-form-hander.php:46
+msgid "Resume title not empty."
+msgstr ""
+
+#: classes/class-resume-form-hander.php:68
+msgid "Resume saved"
+msgstr ""
+
+#: classes/class-resume-form-hander.php:71
+#: includes/resume-posting-action.php:16
+msgid "You can not post resume"
+msgstr ""
+
+#: classes/class-resume-form-hander.php:112
+msgid "Resume successfully added"
+msgstr ""
+
+#: classes/class-resume-form-hander.php:132
+#: classes/class-resume-form-hander.php:215
+#: classes/class-resume-form-hander.php:249
+#: classes/class-resume-form-hander.php:439
+#: includes/resume-viewable.php:114
+msgid ""
+"There's an unknown error. Please "
+"retry or contact Administrator."
+msgstr ""
+
+#: classes/class-resume-form-hander.php:139
+#: classes/class-resume-form-hander.php:256
+msgid ""
+"Sorry, you can't edit this resume."
+msgstr ""
+
+#: classes/class-resume-form-hander.php:144
+#: classes/class-resume-form-hander.php:261
+#: classes/class-resume-form-hander.php:334
+msgid "Sorry, you can't post resume."
+msgstr ""
+
+#: classes/class-resume-form-hander.php:160
+msgid "This resume needs a title."
+msgstr ""
+
+#: classes/class-resume-form-hander.php:365
+msgid "Preview Resume"
+msgstr ""
+
+#: classes/class-resume-form-hander.php:366
+#: classes/class-resume-form-hander.php:411
+msgid "Submit Resume"
+msgstr ""
+
+#: classes/class-resume-form-hander.php:390
+msgid "Save Resume"
+msgstr ""
+
+#: classes/class-resume-form-hander.php:391
+#: classes/class-resume-form-hander.php:412
+#: includes/init.php:22
+#: templates/member/manage-resume.php:80
+msgid "Edit Resume"
+msgstr ""
+
+#: classes/class-resume-form-hander.php:448
+#: classes/class-resume-form-hander.php:479
+msgid "Can not find this resume."
+msgstr ""
+
+#: classes/class-resume-form-hander.php:452
+msgid "You can not edit this resume."
+msgstr ""
+
+#: classes/class-resume-form-hander.php:465
+#, php-format
+msgid ""
+"You have already had %d viewable "
+"resume."
+msgid_plural ""
+"You have already had %d viewable "
+"resumes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-resume-form-hander.php:472
+msgid ""
+"Resume visibility was changed "
+"successfully."
+msgstr ""
+
+#: classes/class-resume-form-hander.php:483
+msgid ""
+"You can not delete this resume."
+msgstr ""
+
+#: classes/class-resume-form-hander.php:487
+msgid "Error in deleting."
+msgstr ""
+
+#: classes/class-resume-form-hander.php:490
+msgid ""
+"Resume was deleted successfully."
+msgstr ""
+
+#: functions/functions.php:20
+#: includes/admin-settings.php:16
+#: includes/init.php:17
+msgid "Resumes"
+msgstr ""
+
+#: functions/functions.php:27
+msgid "Edit resume"
+msgstr ""
+
+#: functions/functions.php:57
+msgid "Viewed Resumes"
+msgstr ""
+
+#: functions/template-functions.php:275
+#: includes/init.php:18
+#: includes/resume-application.php:28
+#: includes/resume-custom-fields.php:54
+msgid "Resume"
+msgstr ""
+
+#: includes/admin-resume-edit.php:6
+msgid "Resume Title"
+msgstr ""
+
+#: includes/admin-resume-edit.php:50
+msgid "General Information"
+msgstr ""
+
+#: includes/admin-resume-edit.php:107
+#: templates/form/resume-submit-education.php:35
+#: templates/resume/resume-education.php:35
+msgid "Education"
+msgstr ""
+
+#: includes/admin-resume-edit.php:129
+#: templates/form/resume-submit-experience.php:34
+#: templates/resume/resume-experience.php:35
+msgid "Work Experience"
+msgstr ""
+
+#: includes/admin-resume-edit.php:151
+msgid "Summary of Skills"
+msgstr ""
+
+#: includes/admin-resume-edit.php:172
+#: includes/admin-resume-list.php:11
+#: includes/email/settings.php:35
+#: includes/email/settings.php:51
+#: includes/email/settings.php:67
+msgid "Candidate"
+msgstr ""
+
+#: includes/admin-resume-edit.php:179
+msgid ""
+"This Resume belongs to Candidate"
+msgstr ""
+
+#: includes/admin-resume-edit.php:194
+msgid "Resume Attachment"
+msgstr ""
+
+#: includes/admin-resume-edit.php:225
+msgid "- Select a Candidate - "
+msgstr ""
+
+#: includes/admin-resume-edit.php:251
+#: templates/form/resume-submit-education.php:40
+#: templates/form/resume-submit-education.php:57
+msgid "School name"
+msgstr ""
+
+#: includes/admin-resume-edit.php:252
+#: templates/form/resume-submit-education.php:42
+#: templates/form/resume-submit-education.php:61
+msgid "Qualification(s)"
+msgstr ""
+
+#: includes/admin-resume-edit.php:253
+#: includes/admin-resume-edit.php:304
+#: templates/form/resume-submit-education.php:44
+#: templates/form/resume-submit-education.php:64
+#: templates/form/resume-submit-experience.php:44
+#: templates/form/resume-submit-experience.php:64
+msgid "Start/end date"
+msgstr ""
+
+#: includes/admin-resume-edit.php:254
+#: includes/admin-resume-edit.php:305
+#: templates/form/resume-submit-education.php:47
+#: templates/form/resume-submit-education.php:69
+#: templates/form/resume-submit-experience.php:47
+#: templates/form/resume-submit-experience.php:69
+msgid "Note"
+msgstr ""
+
+#: includes/admin-resume-edit.php:265
+msgid "Add Education"
+msgstr ""
+
+#: includes/admin-resume-edit.php:265
+#: includes/admin-resume-edit.php:278
+#: includes/admin-resume-edit.php:316
+#: includes/admin-resume-edit.php:330
+#: includes/admin-resume-edit.php:362
+#: includes/admin-resume-edit.php:374
+msgid "x"
+msgstr ""
+
+#: includes/admin-resume-edit.php:302
+#: templates/form/resume-submit-experience.php:40
+#: templates/form/resume-submit-experience.php:57
+msgid "Employer"
+msgstr ""
+
+#: includes/admin-resume-edit.php:303
+#: templates/form/resume-submit-experience.php:42
+#: templates/form/resume-submit-experience.php:61
+msgid "Job Title"
+msgstr ""
+
+#: includes/admin-resume-edit.php:316
+msgid "Add Experience"
+msgstr ""
+
+#: includes/admin-resume-edit.php:352
+#: templates/form/resume-submit-skill.php:38
+#: templates/form/resume-submit-skill.php:54
+msgid "Skill Name"
+msgstr ""
+
+#: includes/admin-resume-edit.php:353
+msgid "Percent % ( 1 to 100 )"
+msgstr ""
+
+#: includes/admin-resume-edit.php:362
+msgid "Add Skill"
+msgstr ""
+
+#: includes/admin-resume-list.php:12
+#: includes/resume-default-fields.php:30
+msgid "Job Category"
+msgstr ""
+
+#: includes/admin-resume-list.php:13
+#: includes/resume-default-fields.php:8
+msgid "Job Location"
+msgstr ""
+
+#: includes/admin-resume-list.php:14
+#: templates/member/manage-resume.php:40
+msgid "Status"
+msgstr ""
+
+#: includes/admin-resume-list.php:15
+msgid "Date"
+msgstr ""
+
+#: includes/admin-resume-list.php:16
+msgid "Actions"
+msgstr ""
+
+#: includes/admin-resume-list.php:84
+#: includes/functions.php:28
+msgid "Inactive"
+msgstr ""
+
+#: includes/admin-resume-list.php:93
+msgid "Toggle viewable"
+msgstr ""
+
+#: includes/admin-resume-list.php:96
+msgid "Approve"
+msgstr ""
+
+#: includes/admin-resume-list.php:105
+#: includes/init.php:24
+msgid "View"
+msgstr ""
+
+#: includes/admin-resume-list.php:113
+#: includes/init.php:21
+msgid "Edit"
+msgstr ""
+
+#: includes/admin-resume-list.php:121
+#: templates/form/resume-submit-education.php:48
+#: templates/form/resume-submit-education.php:70
+#: templates/form/resume-submit-experience.php:48
+#: templates/form/resume-submit-experience.php:70
+#: templates/form/resume-submit-skill.php:44
+#: templates/form/resume-submit-skill.php:63
+msgid "Delete"
+msgstr ""
+
+#: includes/admin-resume-list.php:156
+msgid "All Candidates"
+msgstr ""
+
+#: includes/admin-resume-list.php:169
+msgid "All Categories"
+msgstr ""
+
+#: includes/admin-resume-list.php:182
+msgid "All Locations"
+msgstr ""
+
+#: includes/admin-resume-list.php:250
+msgctxt "Job status"
+msgid "Active"
+msgstr ""
+
+#: includes/admin-resume-list.php:262
+msgid ""
+"You do not have sufficient "
+"permissions to access this page."
+msgstr ""
+
+#: includes/admin-resume-list.php:266
+msgid ""
+"You have taken too long. Please go "
+"back and retry."
+msgstr ""
+
+#: includes/admin-settings.php:35
+msgid "Multiple Resumes Mode"
+msgstr ""
+
+#: includes/admin-settings.php:41
+msgid "Resume Archive base (slug)"
+msgstr ""
+
+#: includes/admin-settings.php:47
+msgid "Apply With Resume"
+msgstr ""
+
+#: includes/admin-settings.php:53
+msgid "Apply Required Resume"
+msgstr ""
+
+#: includes/admin-settings.php:59
+msgid "Resume Displaying"
+msgstr ""
+
+#: includes/admin-settings.php:65
+msgid "Resume Post Page"
+msgstr ""
+
+#: includes/admin-settings.php:66
+#: includes/admin-settings.php:75
+msgid ""
+"Each newly submitted resume needs "
+"the manual approval of Admin."
+msgstr ""
+
+#: includes/admin-settings.php:74
+msgid "Resume Approval"
+msgstr ""
+
+#: includes/admin-settings.php:81
+msgid "Enable Upload CV"
+msgstr ""
+
+#: includes/admin-settings.php:88
+msgid "Enable Education"
+msgstr ""
+
+#: includes/admin-settings.php:95
+msgid "Enable Experience"
+msgstr ""
+
+#: includes/admin-settings.php:102
+msgid "Enable Skill"
+msgstr ""
+
+#: includes/admin-settings.php:109
+msgid "Resume Posting"
+msgstr ""
+
+#: includes/admin-settings.php:124
+#: includes/functions.php:95
+msgid "Post Resume"
+msgstr ""
+
+#: includes/admin-settings.php:127
+msgid "Candidates"
+msgstr ""
+
+#: includes/admin-settings.php:131
+#: includes/init.php:25
+#: includes/resume-application.php:56
+#: includes/resume-application.php:107
+msgid "View Resume"
+msgstr ""
+
+#: includes/admin-settings.php:134
+#: includes/admin-settings.php:144
+msgid "Public"
+msgstr ""
+
+#: includes/admin-settings.php:135
+msgid "Logged-in Users"
+msgstr ""
+
+#: includes/admin-settings.php:136
+#: includes/admin-settings.php:145
+msgid "Employers"
+msgstr ""
+
+#: includes/admin-settings.php:141
+msgid "View Candidate Contact"
+msgstr ""
+
+#: includes/admin-settings.php:146
+msgid "Private"
+msgstr ""
+
+#: includes/admin-settings.php:148
+msgid ""
+"In any case, employers who received "
+"resumes from applications can view "
+"contact information."
+msgstr ""
+
+#: includes/admin.php:8
+msgid "Resumes Page"
+msgstr ""
+
+#: includes/admin.php:31
+msgid ""
+"You are currently editing the page "
+"that shows all your resumes."
+msgstr ""
+
+#: includes/email/settings.php:18
+msgid "Admin resume submit"
+msgstr ""
+
+#: includes/email/settings.php:19
+msgid ""
+"Email to admin when resume submit"
+msgstr ""
+
+#: includes/email/settings.php:20
+msgid "Administrator"
+msgstr ""
+
+#: includes/email/settings.php:22
+msgid ""
+"[site_name] New resume posted by "
+"[candidate_name]"
+msgstr ""
+
+#: includes/email/settings.php:23
+msgid ""
+"[candidate_name] has just submitted "
+"a resume:<br/></br><a href="
+"\"[resume_url]\">View Resume</a>."
+"<br/><br/>Best regards,<br/"
+">[site_name]"
+msgstr ""
+
+#: includes/email/settings.php:25
+#: includes/email/settings.php:40
+#: includes/email/settings.php:56
+#: includes/email/settings.php:72
+msgid "inserting resume title"
+msgstr ""
+
+#: includes/email/settings.php:26
+#: includes/email/settings.php:41
+#: includes/email/settings.php:57
+#: includes/email/settings.php:73
+msgid "inserting resume URL"
+msgstr ""
+
+#: includes/email/settings.php:27
+#: includes/email/settings.php:42
+#: includes/email/settings.php:58
+#: includes/email/settings.php:74
+msgid "inserting resume category"
+msgstr ""
+
+#: includes/email/settings.php:28
+#: includes/email/settings.php:43
+#: includes/email/settings.php:59
+#: includes/email/settings.php:75
+msgid "inserting resume location"
+msgstr ""
+
+#: includes/email/settings.php:29
+#: includes/email/settings.php:44
+#: includes/email/settings.php:60
+#: includes/email/settings.php:76
+msgid "inserting candidate name"
+msgstr ""
+
+#: includes/email/settings.php:33
+msgid "Candidate resume submit"
+msgstr ""
+
+#: includes/email/settings.php:34
+msgid ""
+"Email to candidate when resume "
+"submit"
+msgstr ""
+
+#: includes/email/settings.php:37
+msgid ""
+"[site_name] You've posted a resume: "
+"[resume_title]"
+msgstr ""
+
+#: includes/email/settings.php:38
+msgid ""
+"Hi [candidate_name],<br/><br/"
+">You've posted a new resume:<br/"
+">Title: [resume_title]<br/"
+">Location: [resume_category]<br/"
+">Category: [resume_location]<br/"
+"><br/><br/>You can manage your "
+"resumes in <a href="
+"\"[resume_manage_url]\">Manage "
+"Resume</a>.<br/><br/>Best regards,"
+"<br/>[site_name]"
+msgstr ""
+
+#: includes/email/settings.php:45
+#: includes/email/settings.php:61
+#: includes/email/settings.php:77
+msgid ""
+"inserting application manage Url"
+msgstr ""
+
+#: includes/email/settings.php:49
+msgid "Candidate resume approved"
+msgstr ""
+
+#: includes/email/settings.php:50
+msgid ""
+"Email to candidate when resume "
+"approved by Admin"
+msgstr ""
+
+#: includes/email/settings.php:53
+msgid ""
+"[[site_name]] Your resume "
+"[resume_title] has been approved "
+"and published"
+msgstr ""
+
+#: includes/email/settings.php:54
+msgid ""
+"Hi [candidate_name],<br/><br/>Your "
+"submitted resume [resume_title] has "
+"been approved and published now on "
+"[site_name]:<br/><a href="
+"\"[resume_url]\">View Resume "
+"Detail</a>.<br/><br/>You can manage "
+"your resumes in <a href="
+"\"[resume_manage_url]\">Manage "
+"Resumes</a><br/><br/>Best regards,"
+"<br/>[site_name]"
+msgstr ""
+
+#: includes/email/settings.php:65
+msgid "Candidate resume rejected"
+msgstr ""
+
+#: includes/email/settings.php:66
+msgid ""
+"Email to candidate when resume "
+"rejected by Admin"
+msgstr ""
+
+#: includes/email/settings.php:69
+msgid ""
+"[[site_name]] Your resume "
+"[resume_title] can't be published"
+msgstr ""
+
+#: includes/email/settings.php:70
+msgid ""
+"Hi [candidate_name],<br/><br/>Your "
+"submitted resume [resume_title] can "
+"not be published and has been "
+"deleted. You will have to submit "
+"another resume.<br/><br/>You can "
+"manage your resumes in <a href="
+"\"[resume_manage_url]\">Manage "
+"Resumes</a><br/><br/>Best regards,"
+"<br/>[site_name]"
+msgstr ""
+
+#: includes/functions.php:11
+msgctxt "Job status"
+msgid "Draft"
+msgstr ""
+
+#: includes/functions.php:12
+msgctxt "Job status"
+msgid "Pending Approval"
+msgstr ""
+
+#: includes/functions.php:13
+msgctxt "Job status"
+msgid "Pending Payment"
+msgstr ""
+
+#: includes/functions.php:14
+msgctxt "Job status"
+msgid "Published"
+msgstr ""
+
+#: includes/functions.php:99
+msgid "The page for Resume posting"
+msgstr ""
+
+#: includes/init.php:19
+msgid "Add New Resume"
+msgstr ""
+
+#: includes/init.php:20
+msgid "Add Resume"
+msgstr ""
+
+#: includes/init.php:23
+msgid "New Resume"
+msgstr ""
+
+#: includes/init.php:26
+msgid "View Resume Listings"
+msgstr ""
+
+#: includes/init.php:27
+msgid "Search Resume"
+msgstr ""
+
+#: includes/init.php:28
+msgid "No Resumes found"
+msgstr ""
+
+#: includes/init.php:29
+msgid "No Resumes found in Trash"
+msgstr ""
+
+#: includes/init.php:30
+msgid "All Resumes"
+msgstr ""
+
+#: includes/resume-application.php:21
+msgid "Application Resume"
+msgstr ""
+
+#: includes/resume-application.php:48
+#: includes/resume-apply.php:42
+msgid "Select Resume"
+msgstr ""
+
+#: includes/resume-apply.php:47
+msgid "-Select-"
+msgstr ""
+
+#: includes/resume-apply.php:85
+msgid "Please select a resume"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:46
+msgid "None"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:46
+msgid "All fields"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:56
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:57
+msgid ""
+"Choose fields that come with this "
+"package"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:128
+#, php-format
+msgid "Post resume with %s"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:132
+#, php-format
+msgid "No %s"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:158
+#, php-format
+msgid "Post with %s"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:161
+msgid "Yes"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:161
+msgid "No"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:177
+msgid ""
+"Integrate Custom Field with Resume "
+"Package"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:183
+msgid ""
+"Enable this function and you can "
+"decide which fields employer can "
+"use with each Resume Package"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:188
+msgid ""
+"Fields to add to Resume Package"
+msgstr ""
+
+#: includes/resume-custom-fields-package.php:200
+msgid ""
+"Fields selected here will required "
+"buying specific Resume Package. "
+"Please continue edit on Resume "
+"Package Products."
+msgstr ""
+
+#: includes/resume-custom-fields.php:102
+msgid "*"
+msgstr ""
+
+#: includes/resume-default-fields.php:11
+msgid "Multiple Location"
+msgstr ""
+
+#: includes/resume-default-fields.php:12
+msgid "Multiple Location with Input"
+msgstr ""
+
+#: includes/resume-default-fields.php:13
+msgid "Single Location"
+msgstr ""
+
+#: includes/resume-default-fields.php:14
+msgid "Single Location with Input"
+msgstr ""
+
+#: includes/resume-default-fields.php:33
+msgid "Select"
+msgstr ""
+
+#: includes/resume-default-fields.php:34
+msgid "Multiple Select"
+msgstr ""
+
+#: includes/resume-default-fields.php:35
+msgid "Radio"
+msgstr ""
+
+#: includes/resume-default-fields.php:36
+msgid "Checkbox"
+msgstr ""
+
+#: includes/resume-default-fields.php:46
+msgid "Language"
+msgstr ""
+
+#: includes/resume-default-fields.php:49
+msgid "Your working language"
+msgstr ""
+
+#: includes/resume-default-fields.php:55
+msgid "Highest Degree Level"
+msgstr ""
+
+#: includes/resume-default-fields.php:58
+msgid ""
+"eg. &quot;Bachelor Degree&quot;"
+msgstr ""
+
+#: includes/resume-default-fields.php:64
+msgid "Total Years of Experience"
+msgstr ""
+
+#: includes/resume-default-fields.php:67
+msgid ""
+"eg. &quot;1&quot;, &quot;2&quot;"
+msgstr ""
+
+#: includes/resume-default-fields.php:73
+msgid "Expected Job Level"
+msgstr ""
+
+#: includes/resume-default-fields.php:76
+msgid ""
+"eg. &quot;Junior&quot;, &quot;"
+"Senior&quot;"
+msgstr ""
+
+#: includes/resume-default-fields.php:82
+msgid "Video URL"
+msgstr ""
+
+#: includes/resume-default-fields.php:85
+msgid "Embedded Video"
+msgstr ""
+
+#: includes/resume-posting-action.php:42
+#: includes/resume-viewable.php:122
+msgid "Login"
+msgstr ""
+
+#: includes/resume-posting-action.php:54
+msgid "Package"
+msgstr ""
+
+#: includes/resume-posting-action.php:71
+msgid "Resume Details"
+msgstr ""
+
+#: includes/resume-posting-action.php:89
+msgid "Preview and Submit"
+msgstr ""
+
+#: includes/resume-viewable-contact.php:81
+msgid ""
+"Allow viewing Candidate Contact"
+msgstr ""
+
+#: includes/resume-viewable.php:118
+msgid ""
+"Only logged in users can view "
+"resumes."
+msgstr ""
+
+#: includes/resume-viewable.php:127
+msgid ""
+"Only employer can view resumes."
+msgstr ""
+
+#: includes/resume-viewable.php:130
+#: includes/resume.php:263
+#: includes/resume.php:274
+msgid "Login as Employer"
+msgstr ""
+
+#: includes/resume-viewable.php:133
+msgid "Logout"
+msgstr ""
+
+#: includes/resume.php:167
+msgid "Resume Settings"
+msgstr ""
+
+#: includes/resume.php:252
+msgid ""
+"You don't have permission to view "
+"resumes."
+msgstr ""
+
+#: includes/resume.php:256
+msgid "This resume is private."
+msgstr ""
+
+#: includes/resume.php:258
+msgid ""
+"Only employers can view resumes."
+msgstr ""
+
+#: includes/resume.php:266
+#: includes/resume.php:277
+msgid "Logout then Login as Employer"
+msgstr ""
+
+#: includes/resume.php:269
+msgid ""
+"Only paid employers can view "
+"resumes."
+msgstr ""
+
+#: includes/resume.php:279
+msgid ""
+"Your membership doesn't allow you "
+"to view resumes."
+msgstr ""
+
+#: includes/resume.php:281
+msgid "Upgrade your membership"
+msgstr ""
+
+#: job-listings-resume.php:50
+msgid ""
+"Are you sure you want to remove "
+"this item?"
+msgstr ""
+
+#: templates/content-single-resume.php:41
+msgid "About me"
+msgstr ""
+
+#: templates/form/resume-preview.php:23
+msgid "Preview job"
+msgstr ""
+
+#: templates/form/resume-submit-education.php:78
+#: templates/form/resume-submit-experience.php:78
+#: templates/form/resume-submit-skill.php:71
+msgid "Add new field"
+msgstr ""
+
+#: templates/form/resume-submit-skill.php:32
+msgid "Professional Skills"
+msgstr ""
+
+#: templates/form/resume-submit-skill.php:41
+#: templates/form/resume-submit-skill.php:59
+msgid "Skill percent"
+msgstr ""
+
+#: templates/form/resume-submit.php:31
+msgid "Resume Name"
+msgstr ""
+
+#: templates/form/resume-submit.php:38
+msgid "Resume content"
+msgstr ""
+
+#: templates/form/resume-submit.php:65
+msgid "Upload your Attachment"
+msgstr ""
+
+#: templates/member/manage-resume.php:31
+#, php-format
+msgid "You've saved %s resume"
+msgid_plural "You've saved %s resumes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/member/manage-resume.php:38
+#: templates/member/manage-viewed-resume.php:66
+msgid "Title"
+msgstr ""
+
+#: templates/member/manage-resume.php:39
+#: templates/member/manage-viewed-resume.php:67
+msgid "Category"
+msgstr ""
+
+#: templates/member/manage-resume.php:41
+msgid "Action"
+msgstr ""
+
+#: templates/member/manage-resume.php:85
+msgid "Delete Resume"
+msgstr ""
+
+#: templates/member/manage-resume.php:105
+msgid ""
+"You have no resume, why don't you "
+"start posting one."
+msgstr ""
+
+#: templates/member/manage-viewed-resume.php:40
+#, php-format
+msgid "You've received %s resume"
+msgid_plural ""
+"You've received %s resumes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/member/manage-viewed-resume.php:42
+msgid "You've received no resume"
+msgstr ""
+
+#: templates/member/manage-viewed-resume.php:51
+#, php-format
+msgid "You can view %d more resumes"
+msgstr ""
+
+#: templates/member/manage-viewed-resume.php:68
+msgid "Location"
+msgstr ""
+
+#: templates/member/manage-viewed-resume.php:69
+msgid "Date Modified"
+msgstr ""
+
+#: templates/resume/candidate-info.php:53
+msgid "Email"
+msgstr ""
+
+#: templates/resume/candidate-info.php:63
+msgid "CV File"
+msgstr ""
+
+#: templates/resume/candidate-info.php:69
+#: templates/resume/candidate-info.php:70
+msgid "Download My Attachment"
+msgstr ""
+
+#: templates/resume/loop/loop-before.php:28
+#, php-format
+msgid "%s resume"
+msgid_plural "%s resumes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/resume/loop/not-founds.php:22
+msgid "Resume not found."
+msgstr ""
+
+#: templates/resume/resume-info.php:25
+msgid "Resume infomation"
+msgstr ""
+
+#: templates/resume/resume-skill.php:35
+msgid "Professional skills"
+msgstr ""
+
+#: templates/resume/resume-skill.php:45
+msgid "%"
+msgstr ""
